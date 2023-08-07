@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl Badge"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
     <img src="https://img.shields.io/badge/Verilog-D90429?style=for-the-badge&logoVerilog&logoColor=white" alt="Verilog Badge"/>
     <img src="https://img.shields.io/badge/System%20Verilog-fb8500?style=for-the-badge&logoVerilog&logoColor=white" alt="SystemVerilog Badge"/>
 </div>
