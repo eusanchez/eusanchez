@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ana-eugenia-sv">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://instagram.com/vlsi.portal?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -24,12 +24,16 @@
 
 <div id="badges" align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl Badge"/>
+    <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=OCaml&logoColor=white" alt="Perl Badge"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
     <img src="https://img.shields.io/badge/Verilog-D90429?style=for-the-badge&logoVerilog&logoColor=white" alt="Verilog Badge"/>
     <img src="https://img.shields.io/badge/System%20Verilog-fb8500?style=for-the-badge&logoVerilog&logoColor=white" alt="SystemVerilog Badge"/>
 </div>
+
+<h4 align="center">
+  Programming languages
+</h4>
 
 <!---
 <h4 align="center">
