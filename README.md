@@ -28,6 +28,11 @@
   </ol>
 </details>
 
+## Descripción
+El principal objetivo del laboratorio es el estudio de los procesos de automatización de los flujos de diseño, validación y verificación de circuitos integrados, tanto a nivel de micro-arquitectura, como de diseño lógico y físico.
+
+Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje automático para acelerar o hacer más precisos cada uno de los pasos del flujo de diseño de circuitos integrados. 
+
 ## Proyectos en progreso
 <section id="section1">
 <ul>
@@ -38,9 +43,23 @@
 </ul>
 <p align="right">(<a id="#proyectos-en-progreso">back to top</a>)</p>
 
+## Habilidades obtenidas en el laboratorio.
+
+<div id="badges" align="center">
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn Badge"/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/TCL-76c893?style=for-the-badge&logoColor=white" alt="SystemVerilog Badge"/>
+    <img src="https://img.shields.io/badge/Matplotlib-ff0000?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
+</div>
+
+
+
 ## Artículos científicos
 <section id="section2">
 <a href="https://ieeexplore.ieee.org/document/8807063">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a>
+
+## Objetivos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-ucr)](https://github.com/lima-ucr/github-readme-stats)
 
 
 
