@@ -26,6 +26,7 @@
     <li><a href="#habilidades">Habilidades obtenidas en el laboratorioo</a></li>
     <li><a href="#articulos-cientificos">Artículos científicos</a></li>
     <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#objetivos">Objetvos</a></li>
   </ol>
 </details>
 
@@ -87,6 +88,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 <a href="mailto:erick.carvajalbarboza@ucr.ac.cr">Correo del Profesor Ing. Erick Carvajal Barboza, PhD</a>
 
 ## Objetivos
+<section id="objetivos">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-ucr)](https://github.com/lima-ucr/github-readme-stats)
 
 
