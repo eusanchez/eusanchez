@@ -21,13 +21,16 @@
 <details>
   <summary>Tabla de Contenidos</summary>
   <ol>
+    <li><a href="#descripcion">Descripción</a></li>
     <li><a href="#proyectos-en-progreso">Proyectos en progreso</a></li>
+    <li><a href="#habilidades">Habilidades obtenidas en el laboratorioo</a></li>
     <li><a href="#articulos-cientificos">Artículos científicos</a></li>
     <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
 
 ## Descripción
+<section id="descripcion">
 El principal objetivo del laboratorio es el estudio de los procesos de automatización de los flujos de diseño, validación y verificación de circuitos integrados, tanto a nivel de micro-arquitectura, como de diseño lógico y físico.
 
 Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje automático para acelerar o hacer más precisos cada uno de los pasos del flujo de diseño de circuitos integrados.
@@ -36,7 +39,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   IE-511
 
 ## Proyectos en progreso ▪️◾◼️⬛
-<<section id="proyectos-en-progreso">
+<section id="proyectos-en-progreso">
 <ul>
   <li>Implementación de un modelo de Machine Learning para la predicción de retardos en circuitos integrados 🧑‍💻🕐</li>
   <li>Creación de un Manual de uso de la herramienta OpenLANE ✏️📑</li>
@@ -45,6 +48,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 </ul>
 
 ## Habilidades obtenidas en el laboratorio. 🪜
+<section id="habilidades">
 
 ### Lenguajes de Programación
 <div id="badges" align="center">
