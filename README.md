@@ -41,7 +41,6 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Configuración e implementación en OpenLANE de diseños de benchmarks libres de circuitos digitales 🔗⚒️</li>
   <li>Desarrollo de un taller de electrónica para niños/as 👧👦</li>
 </ul>
-<p align="right">(<a id="#proyectos-en-progreso">back to top</a>)</p>
 
 ## Habilidades obtenidas en el laboratorio.
 
@@ -52,11 +51,20 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
     <img src="https://img.shields.io/badge/Matplotlib-ff0000?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
 </div>
 
-
-
 ## Artículos científicos
 <section id="section2">
 <a href="https://ieeexplore.ieee.org/document/8807063">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a>
+
+## Estudiantes activos en el Laboratorio 
+<section id="section1">
+<ul>
+  <li>Ana Eugenia Sánchez Villalobos</li>
+  <li>Alex Varela</li>
+  <li>Gabriel Alberto Barahona Otoya</li>
+  <li>Leonardo Serrano Arias</li>
+  <li>Mike Mai</li>
+  <li>Daniel Mauricio Chacón Mora</li>
+</ul>
 
 ## Objetivos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-ucr)](https://github.com/lima-ucr/github-readme-stats)
