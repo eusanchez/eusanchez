@@ -94,7 +94,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Alex Varela</li>
   <li>Gabriel Alberto Barahona Otoya</li>
   <li>Leonardo Serrano Arias</li>
-  <li>Mike Mai</li>
+  <li>Mike Mai Chen</li>
   <li>Daniel Mauricio Chacón Mora</li>
   <li>Mauricio Rodriguez Obando</li>
   <li>Erick Sancho Alvarado</li>
