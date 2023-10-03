@@ -64,6 +64,9 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Leonardo Serrano Arias</li>
   <li>Mike Mai</li>
   <li>Daniel Mauricio Chacón Mora</li>
+  <li>Mauricio Rodriguez Obando</li>
+  <li>Erick Sancho Alvarado</li>
+  <li>Jose Carlos Acevedo</li>
 </ul>
 
 ## Objetivos
