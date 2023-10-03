@@ -2,6 +2,24 @@
   Bienvenido al Github del Laboratorio LIMA.
 </h1>
 
+<p align="center">
+<b> Laboratorio de Investigación en Microelectrónica y Arquitectura de Computadoras </b> 
+</p>
+<p align="center">
+<b> (LIMA) </b>
+</p>
+<p align="center">
+<em> Escuela de Ingeniería Eléctrica </em>
+</p>
+<p align="center">
+<em> Universidad de Costa Rica </em>
+</p>
+
+
+<p align="center">
+<em> Coordinado por: Prof. Erick Carvajal Barboza, PhD  </em>
+</p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="300"/>
 </div>
