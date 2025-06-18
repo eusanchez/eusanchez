@@ -10,8 +10,8 @@
 - **Intel Corporation** – *IP Logic Design Engineer*  
 - **Siemens Digital Industries Software** – *Design and Verification Engineer*  
 - **HPE Aruba Networking** – *Engineering Verification Intern*  
-- **University of Costa Rica** – *Circuit Design Lecturer*  
-  - Taught digital circuits and guided students in hardware design fundamentals. 
+- **University of Costa Rica** – *Circuit Design Instructor*  
+  - Taught digital circuits and guided students in hardware design fundamentals.
 
 ---
 
@@ -52,5 +52,5 @@ I'm currently reinforcing my fundamentals in both **hardware design** and **soft
 
 ---
 
-📫 Feel free to reach out for opportunities or collaboration!
-
+📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/ana-eugenia-sv/)**  
+Feel free to reach out for opportunities or collaboration!
