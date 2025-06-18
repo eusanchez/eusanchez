@@ -1,57 +1,56 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="190"/>
-</div>
+# 👋 Hi there! I'm Ana Sanchez
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ana-eugenia-sv">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+🎓 I'm a graduate student in **Computer Engineering** at **Texas A&M University**, starting Fall 2025.  
+🔧 Passionate about **digital design**, **hardware verification**, and building strong foundations in system-level engineering.
 
-<h1>
-  Welcome to my GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
 
-### :woman_technologist: About Me :
+## 💼 Experience Highlights
 
-<h4 align="center">
-  Programming languages
-</h4>
+- **Intel Corporation** – *IP Logic Design Engineer*  
+- **Siemens Digital Industries Software** – *Design and Verification Engineer*  
+- **HPE Aruba Networking** – *Engineering Verification Intern*  
+- **University of Costa Rica** – *Circuit Design Instructor*  
+  - Taught digital circuits and guided students in hardware design fundamentals.
 
-<div id="badges" align="center">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=OCaml&logoColor=white" alt="Perl Badge"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-    <img src="https://img.shields.io/badge/Verilog-D90429?style=for-the-badge&logoVerilog&logoColor=white" alt="Verilog Badge"/>
-    <img src="https://img.shields.io/badge/System%20Verilog-fb8500?style=for-the-badge&logoVerilog&logoColor=white" alt="SystemVerilog Badge"/>
-    <img src="https://img.shields.io/badge/TCL-76c893?style=for-the-badge&logoColor=white" alt="SystemVerilog Badge"/>
-</div>
+---
 
-<h4 align="center">
-  Tools
-</h4>
+## 🔍 Looking for Opportunities
 
-<div id="badges" align="center">
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM Badge"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSC Badge"/>
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn Badge"/>
-    <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-</div>
+I'm open to **internships** and **collaborative projects** in the areas of:
+- RTL Design & Verification
+- SoC Development
+- Computer Architecture
+- Machine Learning for Hardware
+- EDA Tools and Automation
 
-<!---
-<h4 align="center">
-  My top languages in GitHub
-</h4>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
---->
+## 🛠️ Skills & Tools
 
+### 💻 Programming & Scripting
+- **Languages:** Python, Bash, C, C++, Tcl
+- **Hardware Design:** Verilog, SystemVerilog, UVM
+- **Editors:** Vim (yes, I use it daily!)
 
-<!---
-eusanchez/eusanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔎 Verification & Design
+- UVM methodology  
+- Digital design and verification workflows  
+- RTL to GDS flow (learning in progress)
+
+### 🧠 Machine Learning
+- Python libraries: `scikit-learn`, `xgboost`, `numpy`  
+- Currently expanding my knowledge in ML applications for hardware
+
+---
+
+## 🌱 Currently Working On
+
+I'm currently reinforcing my fundamentals in both **hardware design** and **software engineering**, while exploring intersections like:
+- ML-enhanced verification
+- Design automation and flow optimization
+
+---
+
+📫 Feel free to reach out for opportunities or collaboration!
+
