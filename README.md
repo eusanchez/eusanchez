@@ -10,8 +10,8 @@
 - **Intel Corporation** – *IP Logic Design Engineer*  
 - **Siemens Digital Industries Software** – *Design and Verification Engineer*  
 - **HPE Aruba Networking** – *Engineering Verification Intern*  
-- **University of Costa Rica** – *Circuit Design Instructor*  
-  - Taught digital circuits and guided students in hardware design fundamentals.
+- **University of Costa Rica** – *Circuit Design Lecturer*  
+  - Taught digital circuits and guided students in hardware design fundamentals. 
 
 ---
 
