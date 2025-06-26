@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Ana Sanchez
 
 🎓 I'm a graduate student in **Computer Engineering** at **Texas A&M University**, starting Fall 2025.  
-🔧 Passionate about **digital design**, **hardware verification**, and building strong foundations in system-level engineering.
+🔧 Passionate about **machine learning**, **digital design**, **hardware verification**, and building strong foundations in system-level engineering.
 
 ---
 
