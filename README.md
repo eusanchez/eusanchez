@@ -31,7 +31,7 @@ I'm open to **internships** and **collaborative projects** in the areas of:
 ### 💻 Programming & Scripting
 - **Languages:** Python, Bash, C, C++, Tcl
 - **Hardware Design:** Verilog, SystemVerilog, UVM
-- **Editors:** Vim (yes, I use it daily!)
+- **Editors:** Vim
 
 ### 🔎 Verification & Design
 - UVM methodology  
