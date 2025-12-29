@@ -55,5 +55,3 @@ I'm currently reinforcing my fundamentals in both **hardware design** and **soft
 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/ana-eugenia-sv/)**  
 Feel free to reach out for opportunities or collaboration!
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eusanchez16)
