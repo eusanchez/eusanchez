@@ -19,10 +19,9 @@
 
 I'm open to **internships** and **collaborative projects** in the areas of:
 - RTL Design & Verification
-- SoC Development
+- Physical Design
 - Computer Architecture
 - Machine Learning for Hardware
-- EDA Tools and Automation
 
 ---
 
