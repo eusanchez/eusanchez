@@ -9,18 +9,11 @@
 ## 💼 Experience Highlights
 
 - **Intel** – *Pre-Silicon Verification Engineer Intern* (2026)
-  - Verifying die-to-die functionality of a UCIe-compliant IP with UVM; found and root-caused a critical SoC-level bug outside my scope.
-  - Built **ORCA**, a Python regression dispatch tool adopted across verification and DFT teams.
 - **Texas A&M University** – *Graduate Researcher & Teaching Assistant*
-  - TA for CSCE 416 (Hardware Design Functional Verification), mentoring 60+ graduate students in SystemVerilog, UVM, and waveform debug.
 - **Intel** – *IP Logic Design Engineer* (2024–2025)
-  - Formal property verification with JasperGold, CDC/RDC/lint signoff, and UPF power intent.
 - **Siemens EDA** – *Design and Verification Engineer* (2023–2024)
-  - RTL features and UVM tests for a commercial UCIe IP; live customer debug sessions.
 - **HPE Aruba Networking** – *Verification Engineer* (2022–2023)
-  - Architected SoC-level UVM environments for a networking switch line.
 - **University of Costa Rica** – *Circuit Design Instructor*
-  - Taught digital circuits and guided students in hardware design fundamentals.
 
 ---
 
