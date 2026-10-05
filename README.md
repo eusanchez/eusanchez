@@ -1,56 +1,66 @@
 # 👋 Hi there! I'm Ana Sanchez
 
-🎓 I'm a graduate student in **Computer Engineering** at **Texas A&M University**, starting Fall 2025.  
-🔧 Passionate about **machine learning**, **digital design**, **hardware verification**, and building strong foundations in system-level engineering.
+🎓 M.S. student in **Computer Engineering** at **Texas A&M University** 
+🔧 Pre-silicon verification engineer with **3+ years of industry experience** across Intel, Siemens EDA, and HPE Aruba Networking  
+🧠 Researching **LLM-driven verification automation**, combining generative AI with formal methods
 
 ---
 
 ## 💼 Experience Highlights
 
-- **Intel Corporation** – *IP Logic Design Engineer*  
-- **Siemens Digital Industries Software** – *Design and Verification Engineer*  
-- **HPE Aruba Networking** – *Engineering Verification Intern*  
-- **University of Costa Rica** – *Circuit Design Instructor*  
+- **Intel** – *Pre-Silicon Verification Engineer Intern* (2026)
+  - Verifying die-to-die functionality of a UCIe-compliant IP with UVM; found and root-caused a critical SoC-level bug outside my scope.
+  - Built **ORCA**, a Python regression dispatch tool adopted across verification and DFT teams.
+- **Texas A&M University** – *Graduate Researcher & Teaching Assistant*
+  - TA for CSCE 416 (Hardware Design Functional Verification), mentoring 60+ graduate students in SystemVerilog, UVM, and waveform debug.
+- **Intel** – *IP Logic Design Engineer* (2024–2025)
+  - Formal property verification with JasperGold, CDC/RDC/lint signoff, and UPF power intent.
+- **Siemens EDA** – *Design and Verification Engineer* (2023–2024)
+  - RTL features and UVM tests for a commercial UCIe IP; live customer debug sessions.
+- **HPE Aruba Networking** – *Verification Engineer* (2022–2023)
+  - Architected SoC-level UVM environments for a networking switch line.
+- **University of Costa Rica** – *Circuit Design Instructor*
   - Taught digital circuits and guided students in hardware design fundamentals.
+
+---
+
+## 🔬 Projects & Research
+
+- **LLM-Driven Assertion Generation with Formal Qualification** — *Python, SystemVerilog, JasperGold*  
+  An LLM-agent framework for generating SystemVerilog assertions and using UVM environment.
+- **Functional Verification of MESI Protocol in a Quad-Core Multiprocessor** — *SystemVerilog, UVM*  
+  UVM environment with SVA to verify cache coherence across per-core MESI L1 caches, a shared L2, and memory.
+
+📄 **Publication:** *Harnessing Design History and Machine Learning for Precise Delay Estimation in Open-Source EDA* — CONCAPAN XLII, 2024
 
 ---
 
 ## 🔍 Looking for Opportunities
 
-I'm open to **internships** and **collaborative projects** in the areas of:
-- RTL Design & Verification
-- Physical Design
-- Computer Architecture
-- Machine Learning for Hardware
+I'm open to **full-time roles starting 2027** and **collaborative projects** in:
+- Design Verification (UVM, SVA, Formal)
+- Pre-Silicon Validation & Debug
+- Machine Learning / LLMs for Hardware Verification
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming & Scripting
-- **Languages:** Python, Bash, C, C++, Tcl
-- **Hardware Design:** Verilog, SystemVerilog, UVM
-- **Editors:** Vim
+### 💻 Programming & HDLs
+- **Languages:** Python, SystemVerilog, C, C++, TCL, Perl, Bash
+- **Methodologies:** UVM, SVA, Functional Coverage, Constrained-Random Verification, Formal Property Verification
 
-### 🔎 Verification & Design
-- UVM methodology  
-- Digital design and verification workflows  
-- RTL to GDS flow (learning in progress)
+### 🔎 EDA Tools
+- **Simulation & Debug:** Synopsys VCS/Verdi, Cadence SimVision, Mentor Questa
+- **Formal & Signoff:** Cadence JasperGold (FPV), Synopsys VC SpyGlass CDC
 
-### 🧠 Machine Learning
-- Python libraries: `scikit-learn`, `xgboost`, `numpy`  
-- Currently expanding my knowledge in ML applications for hardware
+### 🧩 Domains
+- UCIe, Cache Coherence (MESI), CDC/RDC, Power Intent (UPF), RTL Design
 
----
-
-## 🌱 Currently Working On
-
-I'm currently reinforcing my fundamentals in both **hardware design** and **software engineering**, while exploring intersections like:
-- ML-enhanced verification
-- Design automation and flow optimization
+### 🧰 Workflow
+- Linux, Git, Vim, VSCode, JIRA, Large Language Models
 
 ---
 
 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/ana-eugenia-sv/)**  
 Feel free to reach out for opportunities or collaboration!
-
